@@ -1,4 +1,4 @@
-Everything in this video is my personal opinion and experience, and should not be considered professional advice. Always do your own research and make sure what you're doing is safe.
+Hi there
 
 <!--
 **mohednazari/mohednazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
